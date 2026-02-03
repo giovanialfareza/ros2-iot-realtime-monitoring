@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/data_engineering/data_engineering.egg-info
+writing ../../build/data_engineering/data_engineering.egg-info/PKG-INFO
+writing dependency_links to ../../build/data_engineering/data_engineering.egg-info/dependency_links.txt
+writing entry points to ../../build/data_engineering/data_engineering.egg-info/entry_points.txt
+writing requirements to ../../build/data_engineering/data_engineering.egg-info/requires.txt
+writing top-level names to ../../build/data_engineering/data_engineering.egg-info/top_level.txt
+writing manifest file '../../build/data_engineering/data_engineering.egg-info/SOURCES.txt'
+reading manifest file '../../build/data_engineering/data_engineering.egg-info/SOURCES.txt'
+writing manifest file '../../build/data_engineering/data_engineering.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/pi/ros2-workspace/build/data_engineering/build
+creating /home/pi/ros2-workspace/build/data_engineering/build/lib
+creating /home/pi/ros2-workspace/build/data_engineering/build/lib/data_engineering
+copying data_engineering/publisher_node.py -> /home/pi/ros2-workspace/build/data_engineering/build/lib/data_engineering
+copying data_engineering/__init__.py -> /home/pi/ros2-workspace/build/data_engineering/build/lib/data_engineering
+running install
+running install_lib
+creating /home/pi/ros2-workspace/install/data_engineering/lib/python3.12/site-packages/data_engineering
+copying /home/pi/ros2-workspace/build/data_engineering/build/lib/data_engineering/publisher_node.py -> /home/pi/ros2-workspace/install/data_engineering/lib/python3.12/site-packages/data_engineering
+copying /home/pi/ros2-workspace/build/data_engineering/build/lib/data_engineering/__init__.py -> /home/pi/ros2-workspace/install/data_engineering/lib/python3.12/site-packages/data_engineering
+byte-compiling /home/pi/ros2-workspace/install/data_engineering/lib/python3.12/site-packages/data_engineering/publisher_node.py to publisher_node.cpython-312.pyc
+byte-compiling /home/pi/ros2-workspace/install/data_engineering/lib/python3.12/site-packages/data_engineering/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/pi/ros2-workspace/install/data_engineering/share/ament_index
+creating /home/pi/ros2-workspace/install/data_engineering/share/ament_index/resource_index
+creating /home/pi/ros2-workspace/install/data_engineering/share/ament_index/resource_index/packages
+copying resource/data_engineering -> /home/pi/ros2-workspace/install/data_engineering/share/ament_index/resource_index/packages
+copying package.xml -> /home/pi/ros2-workspace/install/data_engineering/share/data_engineering
+running install_egg_info
+Copying ../../build/data_engineering/data_engineering.egg-info to /home/pi/ros2-workspace/install/data_engineering/lib/python3.12/site-packages/data_engineering-0.0.0-py3.12.egg-info
+running install_scripts
+Installing publisher_node script to /home/pi/ros2-workspace/install/data_engineering/lib/data_engineering
+writing list of installed files to '/home/pi/ros2-workspace/build/data_engineering/install.log'

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: data-engineering
+Version: 0.0.0
+Summary: Data Engineering Layer for IoT ROS2 Pipeline
+Maintainer: Alfareza Giovani
+Maintainer-email: rzgvn11@gmail.com
+License: MIT
